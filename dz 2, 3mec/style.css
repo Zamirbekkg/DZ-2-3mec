@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Button{
+    height: 200px;
+    width: 300px;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: aqua;
+}
